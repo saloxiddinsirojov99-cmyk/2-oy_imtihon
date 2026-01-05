@@ -1,5 +1,5 @@
-import app from './src/app.js';
-app.listen(3030, () => {
-  console.log('Server running on port 3030');
-});
+import app from "./src/app.js";
 
+app.listen(3000, () => {
+  console.log("Server 3000-portda ishlayapti");
+});
